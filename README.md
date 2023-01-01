@@ -8,5 +8,4 @@ In the experiments we test the impact of using different Optimzers, Hyper parama
 The IMDB Reviews data can be downloaded from here: http://ai.stanford.edu/~amaas/data/sentiment/.
 
 The 20-news group dataset can be loaded directly using sklearn.datasets.fetch_20newsgroups 
-(https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups. 
-html).
+(https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html).
