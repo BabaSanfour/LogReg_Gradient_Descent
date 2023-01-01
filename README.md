@@ -5,4 +5,8 @@ The jupyter start with some data analysis on the publicly available datasets: IM
 
 In the experiments we test the impact of using different Optimzers, Hyper paramaters, effect of data normalization... With a comparison to kNN results (from sklearn)
 
+The IMDB Reviews data can be downloaded from here: http://ai.stanford.edu/~amaas/data/sentiment/.
 
+The 20-news group dataset can be loaded directly using sklearn.datasets.fetch_20newsgroups 
+(https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups. 
+html).
